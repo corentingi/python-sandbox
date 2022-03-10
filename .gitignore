@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# IDE
+.vscode
+*.swp
+*.swo
+
+# Python
+**/*.pyc
+*.py~
+
+# Specific
+/colors/output
